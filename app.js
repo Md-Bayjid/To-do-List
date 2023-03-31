@@ -145,16 +145,3 @@ function removeLocalTodos(todo) {
 }
 
 
-
-
-
-
-// const divElement = document.createElement('div');
-// divElement.className = 'tumi';
-
-// divElement.setAttribute('id', 'ami');
-// divElement.setAttribute('title', 'hello');
-// const container = document.querySelector('.todo-container');
-// container.appendChild(divElement)
-
-
